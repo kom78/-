@@ -103,7 +103,7 @@ void drawEndingScreen() {
 }
 
 // --- 인트로 화면 (시작 화면) ---
-void drawIntroScreen() {
+void drawIntroScreen() { 
   drawSpaceBackground();
   noStroke();
   fill(20, 25, 45, 230);
